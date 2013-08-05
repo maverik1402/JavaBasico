@@ -1,11 +1,8 @@
 package clase01;
 
-import com.sun.xml.internal.ws.encoding.soap.SOAP12Constants;
-
 public class PrimeraClase {
 
     public static void main(String[] args) {
-
 
         //PrimeraClase.ejercicio5();
         //PrimeraClase.ejercicio6();
