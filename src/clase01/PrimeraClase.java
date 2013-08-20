@@ -176,9 +176,5 @@ public class PrimeraClase {
                 System.out.println(matriz[i][j]);
             }
         }
-
-
-
-
     }
 }
