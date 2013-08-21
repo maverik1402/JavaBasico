@@ -12,4 +12,9 @@ public class Cuadrado extends Shape {
         this.setAlto(lado);
         this.setAncho(lado);
     }
+
+    @Override
+    public void imprimirArea() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }
